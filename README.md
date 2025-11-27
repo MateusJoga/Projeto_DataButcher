@@ -149,7 +149,7 @@ sequenceDiagram
 
 O projeto está organizado da seguinte forma:
 
-\`\`\`
+```
 Projeto_DataButcher/
 ├── Arduino Wokwi/           # Código de simulação do dispositivo IoT (Arduino)
 │   ├── diagram.json
@@ -169,7 +169,7 @@ Projeto_DataButcher/
 ├── app.py                   # Aplicação Flask principal (API REST e Cliente MQTT)
 ├── main.py                  # Aplicação de console para testes e cadastro inicial de máquinas
 └── README.md                # Este arquivo
-\`\`\`
+```
 
 ## 🛠️ Configuração e Execução
 
